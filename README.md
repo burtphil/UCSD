@@ -1,1 +1,1 @@
-# UCSD
+This folder contains data that was collected during a research project at UCSD in the Schroeder Laboratory from Sept. 2016 - March 2017. It contains raw data of aequorin luminometry measurements, R scripts for analysis of this data and sequencing files of Crispr/Cas9 clones and code for an online app (R shinyapps) to analyze calcium aequorin data.
